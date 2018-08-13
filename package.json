@@ -1,0 +1,16 @@
+{
+  "name": "s3-at-rest-encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "dependencies": {
+    "aws-sdk": "2.251.1",
+    "aes256": "1.0.3"
+  },
+  "devDependencies": {
+    "eslint": "5.3.0"
+  },
+  "scripts": {
+    "test": "eslint ."
+  }
+}
