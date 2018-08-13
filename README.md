@@ -17,7 +17,7 @@ The encrypted data key will be temporarily stored (cached) in your current worki
 Now, you can encrypt a local file and upload it to S3. Replace `FILE` with the path the the local file, and `S3URI` with the location on S3, such as `s3://bucket/key`.
 
 ```
-node cli.js decrypt-with-kms FILE S3URI
+node cli.js encrypt-with-kms FILE S3URI
 ```
 
 How it works:
