@@ -1,5 +1,7 @@
 # S3 At-Rest-Encryption
 
+Read the blog post: https://cloudonaut.io/encrypting-sensitive-data-stored-on-s3/
+
 ## AWS SDK + KMS
 
 Before you can start, you have to generate an encrypted data key using the KMS service. Replace `KEY_ID_OR_ARN` with the id or ARN of your KMS CMK. 
