@@ -4,7 +4,7 @@
   "description": "",
   "main": "cli.js",
   "dependencies": {
-    "aws-sdk": "2.251.1",
+    "aws-sdk": "2.814.0",
     "aes256": "1.0.3"
   },
   "devDependencies": {
